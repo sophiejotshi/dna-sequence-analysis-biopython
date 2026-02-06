@@ -1,7 +1,7 @@
 # DNA Sequence Analysis Using Biopython
 
 ## About the Project
-This project is a basic bioinformatics pipeline written in Python to analyze DNA sequences in FASTA format. It was created as a mini project to understand how biological sequence data can be processed programmatically using Biopython.
+This project is a bioinformatics pipeline written in Python to analyze DNA sequences in FASTA format. It was created as a mini project to understand how biological sequence data can be processed programmatically using Biopython.
 
 The SARS-CoV-2 reference genome is used as the input sequence to demonstrate real biological data handling.
 
@@ -47,6 +47,7 @@ The SARS-CoV-2 reference genome is used as the input sequence to demonstrate rea
 ## Output
 - **dna_features_sars_cov_2.csv**  
   This file contains all calculated DNA features and can be used for visualization or further analysis in Excel, Power BI, or Python.
+
 
 
 
