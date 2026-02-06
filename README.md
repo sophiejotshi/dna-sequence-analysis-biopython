@@ -46,6 +46,7 @@ The SARS-CoV-2 reference genome is used as the input sequence to demonstrate rea
 
 ## Output
 - dna_features_sars_cov_2.csv 
-  This file contains all calculated DNA features and can be used for visualization or further analysis in Excel, Power BI, or Python.
+This file contains all calculated DNA features and can be used for visualization or further analysis in Excel, Power BI, or Python.
+
 
 
