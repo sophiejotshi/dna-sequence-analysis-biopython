@@ -1,0 +1,2 @@
+sequence_id,dna_length,gc_content_percent,at_content_percent,A_percent,T_percent,G_percent,C_percent,N_count,protein_length,stop_codon_count
+NC_045512.2,29903,37.97,62.03,29.94,32.08,19.61,18.37,0,8,774
