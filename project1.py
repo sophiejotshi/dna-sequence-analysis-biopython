@@ -47,7 +47,7 @@ def analyze_sequence(record):
         "stop_codon_count": stop_count
     }
 
-# ---------- Main pipeline ----------
+# Main pipeline 
 input_fasta = "sars_cov_2.fasta"
 results = []
 
